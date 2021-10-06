@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RaresIancu
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning Python in my University.
+- 📫 How to reach me : Discord Rares#0013
