@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RaresIancu
 - 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Python in my University.
-- 📫 How to reach me : Discord Rares#0013
+- 🌱 I’m currently taking a course about Python.
+- 📫 How to reach me : (https://www.linkedin.com/in/rares-iancu-7a077b22b/)
